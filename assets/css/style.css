@@ -1377,7 +1377,7 @@ strong {
 .recipe-card {
   border: 1px solid #ddd;
   border-radius: 12px;
-  padding: 20px 22px;
+  padding: 12px 12px;
   display: flex;
   flex-direction: column;
   height: 100%;
@@ -1404,7 +1404,7 @@ strong {
   text-align: left;
   color: var(--color-brand);
   font-size: 14px;
-  font-weight: 700;
+  font-weight: 500;
   margin-top: auto;
 }
 .recipe-promotion {
@@ -1957,10 +1957,10 @@ strong {
     font-size: 36px;
   }
   .recipe-card > img {
-    height: 235px;
+    /* height: 235px; */
   }
   .recipe-card {
-    min-height: 480px;
+    min-height: 479px;
   }
   .recipe-intro-image {
     height: 330px;
